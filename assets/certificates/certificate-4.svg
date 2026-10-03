@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="JavaScript essentials certificate">
+  <rect width="1200" height="760" fill="#0d1728"/>
+  <rect x="60" y="60" width="1080" height="640" rx="28" fill="#101d2e" stroke="#7aa7ff" stroke-opacity="0.5"/>
+  <text x="600" y="150" text-anchor="middle" fill="#ebf3ff" font-size="52" font-family="Arial, sans-serif" font-weight="700">Certificate of Achievement</text>
+  <text x="600" y="232" text-anchor="middle" fill="#7aa7ff" font-size="40" font-family="Arial, sans-serif" font-weight="700">JAVASCRIPT ESSENTIALS</text>
+  <text x="600" y="320" text-anchor="middle" fill="#dfeeff" font-size="28" font-family="Arial, sans-serif">Awarded to Pavan Londhe</text>
+  <text x="600" y="370" text-anchor="middle" fill="#dfeeff" font-size="26" font-family="Arial, sans-serif">TechNest Courses</text>
+  <rect x="170" y="430" width="270" height="110" rx="16" fill="#182b46"/>
+  <rect x="760" y="430" width="270" height="110" rx="16" fill="#182b46"/>
+  <text x="305" y="490" text-anchor="middle" fill="#8ce0c0" font-size="20" font-family="Arial, sans-serif">Date</text>
+  <text x="305" y="520" text-anchor="middle" fill="#ebf3ff" font-size="22" font-family="Arial, sans-serif">October 2025</text>
+  <text x="895" y="490" text-anchor="middle" fill="#8ce0c0" font-size="20" font-family="Arial, sans-serif">ID</text>
+  <text x="895" y="520" text-anchor="middle" fill="#ebf3ff" font-size="22" font-family="Arial, sans-serif">JS-9024</text>
+</svg>

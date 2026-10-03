@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="FacultyCare AI">
+  <rect width="800" height="520" fill="#f5f5ff"/>
+  <rect x="70" y="70" width="660" height="380" rx="28" fill="#ffffff"/>
+  <rect x="110" y="110" width="200" height="200" rx="20" fill="#ede9fe"/>
+  <path d="M150 250c28-60 65-90 110-90 50 0 83 30 110 90H150Z" fill="#8b5cf6" opacity="0.2"/>
+  <rect x="370" y="120" width="260" height="26" rx="13" fill="#ddd6fe"/>
+  <rect x="370" y="170" width="240" height="18" rx="9" fill="#e9d5ff"/>
+  <rect x="370" y="210" width="220" height="18" rx="9" fill="#e9d5ff"/>
+  <rect x="370" y="260" width="140" height="40" rx="20" fill="#8b5cf6" opacity="0.12"/>
+</svg>

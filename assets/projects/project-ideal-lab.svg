@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Ideal Lab project">
+  <rect width="800" height="520" fill="#f0fdf4"/>
+  <rect x="80" y="90" width="640" height="340" rx="28" fill="#ffffff"/>
+  <rect x="130" y="150" width="170" height="150" rx="18" fill="#dcfce7"/>
+  <rect x="360" y="150" width="260" height="24" rx="12" fill="#bbf7d0"/>
+  <rect x="360" y="198" width="230" height="18" rx="9" fill="#dcfce7"/>
+  <rect x="360" y="240" width="260" height="18" rx="9" fill="#dcfce7"/>
+  <rect x="360" y="285" width="150" height="38" rx="19" fill="#16a34a" opacity="0.12"/>
+</svg>

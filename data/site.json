@@ -1,0 +1,109 @@
+{
+  "profile": {
+    "name": "Pavan Londhe",
+    "role": "2nd Year Information Technology Engineering Student",
+    "college": "Tulshiramji Gaikwad-Patil College of Engineering and Technology, Nagpur",
+    "branch": "Information Technology (IT)",
+    "year": "2nd Year",
+    "current_focus": "Full Stack Development",
+    "domain": "AWS & Data Analysis",
+    "location": "At Post Lakh, Taluka Aundha (Nagnath), District Hingoli, Maharashtra, India",
+    "email": "pavanlondhe.25@gmail.com",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "profile_image": "assets/images/image",
+    "about": "I am Pavan Londhe, a 2nd year Information Technology Engineering student at Tulshiramji Gaikwad-Patil College of Engineering and Technology, Nagpur. I am currently focused on Full Stack Development and continuously improving my programming and software development skills. I have learned HTML, CSS, JavaScript, Python, C and PHP. Along with web development, I am interested in AWS and Data Analysis. I enjoy creating practical websites and software projects while learning new technologies through hands-on development.",
+    "current_learning": [
+      "Full Stack Development",
+      "AWS",
+      "Data Analysis"
+    ]
+  },
+  "skills": [
+    {"name": "HTML", "category": "Frontend Development", "icon": "fa-brands fa-html5", "status": "Active"},
+    {"name": "CSS", "category": "Frontend Development", "icon": "fa-brands fa-css3-alt", "status": "Active"},
+    {"name": "JavaScript", "category": "Frontend Development", "icon": "fa-brands fa-js", "status": "Active"},
+    {"name": "C", "category": "Programming Languages", "icon": "fa-solid fa-code", "status": "Active"},
+    {"name": "Python", "category": "Programming Languages", "icon": "fa-brands fa-python", "status": "Active"},
+    {"name": "PHP", "category": "Programming Languages", "icon": "fa-brands fa-php", "status": "Active"},
+    {"name": "Backend Fundamentals", "category": "Backend / Web Development", "icon": "fa-solid fa-server", "status": "Active"},
+    {"name": "Database Integration", "category": "Backend / Web Development", "icon": "fa-solid fa-database", "status": "Active"},
+    {"name": "Full Stack Development", "category": "Currently Learning", "icon": "fa-solid fa-layer-group", "status": "Currently Learning"},
+    {"name": "AWS", "category": "Currently Learning", "icon": "fa-brands fa-aws", "status": "Currently Learning"},
+    {"name": "Data Analysis", "category": "Currently Learning", "icon": "fa-solid fa-chart-line", "status": "Currently Learning"}
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Smart Print System",
+      "description": "A smart printing workflow project focused on digital file submission, QR-based access and print desk management.",
+      "category": "Web Development",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP / Backend"],
+      "github_url": "https://github.com/",
+      "live_url": "#",
+      "status": "Development",
+      "image": "assets/projects/project-smart-print.svg"
+    },
+    {
+      "id": 2,
+      "name": "Voting Management System",
+      "description": "A web-based voting management project created for managing election-related information and candidate data.",
+      "category": "PHP",
+      "technologies": ["HTML", "CSS", "JavaScript", "PHP", "Database"],
+      "github_url": "https://github.com/",
+      "live_url": "#",
+      "status": "Completed",
+      "image": "assets/projects/project-voting.svg"
+    },
+    {
+      "id": 3,
+      "name": "FacultyCare AI",
+      "description": "A faculty workload and risk analysis dashboard created as a technology project.",
+      "category": "Academic",
+      "technologies": ["JavaScript", "Dashboard", "Chart.js", "Data Analysis"],
+      "github_url": "https://github.com/",
+      "live_url": "#",
+      "status": "Completed",
+      "image": "assets/projects/project-facultycare.svg"
+    },
+    {
+      "id": 4,
+      "name": "Ideal Lab / College Project",
+      "description": "A college-related technology project supporting learning, digital workflows and practical experimentation.",
+      "category": "Academic",
+      "technologies": ["HTML", "CSS", "JavaScript", "College Project"],
+      "github_url": "https://github.com/",
+      "live_url": "#",
+      "status": "In Progress",
+      "image": "assets/projects/project-ideal-lab.svg"
+    }
+  ],
+  "websites": [
+    {"id": 1, "name": "Portfolio Website", "description": "Personal developer portfolio for showcasing projects and profile.", "technology": "HTML, CSS, JavaScript", "live_url": "#", "github_url": "https://github.com/", "status": "Live", "image": "assets/projects/project-smart-print.svg"},
+    {"id": 2, "name": "Student Project Hub", "description": "A project showcase page for academic work and learning progress.", "technology": "PHP, HTML, CSS", "live_url": "#", "github_url": "https://github.com/", "status": "Development", "image": "assets/projects/project-voting.svg"}
+  ],
+  "certificates": [
+    {"id": 1, "name": "Web Development Fundamentals", "organization": "SkillForge Academy", "date": "March 2026", "category": "Web Development", "credential_id": "WDF-2048", "image": "assets/certificates/certificate-1.svg", "credential_url": "#"},
+    {"id": 2, "name": "PHP & Database Workshop", "organization": "CodeCraft Lab", "date": "January 2026", "category": "Workshop", "credential_id": "PHP-1187", "image": "assets/certificates/certificate-2.svg", "credential_url": "#"},
+    {"id": 3, "name": "Innovation Hackathon Participation", "organization": "Campus Tech League", "date": "December 2025", "category": "Hackathon", "credential_id": "HT-4311", "image": "assets/certificates/certificate-3.svg", "credential_url": "#"},
+    {"id": 4, "name": "JavaScript Essentials", "organization": "TechNest Courses", "date": "October 2025", "category": "Programming", "credential_id": "JS-9024", "image": "assets/certificates/certificate-4.svg", "credential_url": "#"}
+  ],
+  "achievements": [
+    {"id": 1, "title": "Engineering Projects", "description": "Developed multiple practical software projects focused on web solutions and academic tools.", "date": "2026", "image": ""},
+    {"id": 2, "title": "Hackathon Participation", "description": "Participated in technology and innovation projects with a focus on problem solving.", "date": "2026", "image": ""},
+    {"id": 3, "title": "Technical Learning", "description": "Completed learning modules and workshops to strengthen concepts in web development and programming.", "date": "2025", "image": ""}
+  ],
+  "education": [
+    {"id": 1, "course": "Bachelor of Engineering / Technology", "branch": "Information Technology", "college": "Tulshiramji Gaikwad-Patil College of Engineering and Technology, Nagpur", "year": "2nd Year", "status": "Currently Studying", "description": "Building a strong foundation in software engineering, web development and practical technology learning."}
+  ],
+  "resume": {"path": "assets/resume/resume.pdf", "status": "Available"},
+  "settings": {
+    "site_title": "Pavan Londhe | 2nd Year IT Engineering Student | Full Stack Developer | AWS & Data Analysis",
+    "footer_text": "Built with HTML, CSS, JavaScript and PHP.",
+    "admin_email": "admin@pavanportfolio.local",
+    "github_url": "https://github.com/",
+    "linkedin_url": "https://www.linkedin.com/",
+    "email": "pavanlondhe.25@gmail.com"
+  },
+  "contact_messages": []
+}

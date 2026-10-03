@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Voting management system">
+  <rect width="800" height="520" fill="#f7f8ff"/>
+  <rect x="70" y="70" width="660" height="380" rx="28" fill="#ffffff"/>
+  <rect x="110" y="120" width="220" height="250" rx="18" fill="#e0e7ff"/>
+  <rect x="390" y="120" width="270" height="34" rx="15" fill="#c7d2fe"/>
+  <rect x="390" y="180" width="230" height="18" rx="9" fill="#e0e7ff"/>
+  <rect x="390" y="220" width="210" height="18" rx="9" fill="#e0e7ff"/>
+  <rect x="390" y="260" width="250" height="18" rx="9" fill="#e0e7ff"/>
+  <rect x="390" y="300" width="120" height="40" rx="20" fill="#4f46e5" opacity="0.16"/>
+</svg>

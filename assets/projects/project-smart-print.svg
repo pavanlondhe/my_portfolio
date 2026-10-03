@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Smart Print System">
+  <rect width="800" height="520" fill="#eff6ff"/>
+  <rect x="60" y="90" width="680" height="340" rx="30" fill="#ffffff"/>
+  <rect x="120" y="160" width="180" height="180" rx="22" fill="#dbeafe"/>
+  <rect x="360" y="160" width="300" height="22" rx="11" fill="#93c5fd"/>
+  <rect x="360" y="205" width="250" height="18" rx="9" fill="#dbeafe"/>
+  <rect x="360" y="240" width="210" height="18" rx="9" fill="#dbeafe"/>
+  <rect x="360" y="290" width="160" height="38" rx="19" fill="#1d4ed8" opacity="0.13"/>
+  <circle cx="210" cy="250" r="56" fill="#1d4ed8" opacity="0.12"/>
+  <path d="M180 250h60v20h-60zM190 235h40v50h-40z" fill="#1d4ed8" opacity="0.75"/>
+</svg>

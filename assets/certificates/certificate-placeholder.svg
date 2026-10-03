@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Certificate placeholder">
+  <rect width="900" height="600" fill="#f8fafc"/>
+  <rect x="80" y="110" width="740" height="380" rx="26" fill="#ffffff" stroke="#dfe6ef"/>
+  <text x="450" y="210" text-anchor="middle" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Certificate</text>
+  <text x="450" y="270" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="22">Add a certificate image here</text>
+</svg>
